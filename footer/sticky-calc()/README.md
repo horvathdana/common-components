@@ -1,0 +1,1 @@
+Ez a megoldás a calc() függvényt veszi alapul a footer pocíciójának kiszámításához.

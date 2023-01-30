@@ -1,0 +1,1 @@
+Ez a megoldás a html elemet használja pozícionált konténerként.

@@ -1,0 +1,1 @@
+Ez egy rögzített fejléc minta, ami minden méretben fent maradt az oldal tetején.

@@ -1,0 +1,1 @@
+Ez a megoldás a pozíció megváltoztatásával helyezi el a footert.
